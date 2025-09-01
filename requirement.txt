@@ -1,4 +1,0 @@
-pip install streamlit
-pip install pandas
-pip install requests
-pip install xlsxwriter
